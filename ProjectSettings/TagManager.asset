@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerProjectile
+  - Level
+  - EnemyProjectile
+  - Enemy
+  - Bridge
+  - Ship
+  - Heli
+  - Gunner
+  - Balloon
+  - Fuel
+  - Tank
+  - Jet
+  - MusicPlayer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Plane
+  - Enemy
+  - Level
+  - EnemyProjectile
+  - PlayerProjectile
+  - Bridge
+  - Jet
+  - Tank
+  - FuelCollider
+  - FuelTrigger
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
